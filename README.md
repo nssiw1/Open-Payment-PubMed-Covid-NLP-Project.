@@ -1,4 +1,4 @@
-# PubMed-Covid-NLP-Project.
+# Open Payment & PubMed-Covid-NLP-Project.
 Natural language processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret, and manipulate human language
 
 Today’s machines can analyze more language-based data than humans, without fatigue and in a consistent, unbiased way
