@@ -39,8 +39,10 @@ Focus on topics of strategic importance
 query = '(COVID-19 OR SARS-CoV-2 OR Corona virus OR Coronavirus) AND ("2020/03/15"[PDat]:"2020/03/24"[PDat]) AND English[lang]))'
 
 # Open Payment Analysis:
-Unauthenticated client only works with public data sets. Note 'None'.
-in place of application token, and no username or password.
+Unauthenticated client only works with public data sets. Note 'None'
+
+in place of application token, and no username or password
+
 Search OpenPayentData by physician specialty and find top physcians (ranked by payment amount).
 Convert to pandas DataFrame.
 Experiment with Pandas Pivot Table.
