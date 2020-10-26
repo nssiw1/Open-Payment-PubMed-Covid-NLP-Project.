@@ -43,12 +43,18 @@ Unauthenticated client only works with public data sets. Note 'None'
 
 in place of application token, and no username or password
 
-Search OpenPayentData by physician specialty and find top physcians (ranked by payment amount).
-Convert to pandas DataFrame.
-Experiment with Pandas Pivot Table.
-Pivot table return ranked physicians by total.
-Search OpenPayentData by physician specialty and find top physcians (ranked by payment amount).
-Recipient_city='New York City'.
+Search OpenPayentData by physician specialty and find top physcians (ranked by payment amount)
+
+Convert to pandas DataFrame
+
+Experiment with Pandas Pivot Table
+
+Pivot table return ranked physicians by total
+
+Search OpenPayentData by physician specialty and find top physcians (ranked by payment amount)
+
+Recipient_city='New York City'
+
 1.	Global Blood Therapeutics Inc: Voxelotor OR GBT440
 2.	Pfizer: Rivipansel OR GMI-1070
 3.	GlycoMimetics: Rivipansel OR GMI-1070
