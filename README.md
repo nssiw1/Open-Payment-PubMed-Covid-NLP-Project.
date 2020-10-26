@@ -1,4 +1,4 @@
-# Open Payment & PubMed-Covid-NLP-Project.
+# PubMed-Covid-NLP-Project.
 Natural language processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret, and manipulate human language
 
 Today’s machines can analyze more language-based data than humans, without fatigue and in a consistent, unbiased way
@@ -38,6 +38,17 @@ Focus on topics of strategic importance
 
 query = '(COVID-19 OR SARS-CoV-2 OR Corona virus OR Coronavirus) AND ("2020/03/15"[PDat]:"2020/03/24"[PDat]) AND English[lang]))'
 
-
-
+# Open Payment Analysis:
+Unauthenticated client only works with public data sets. Note 'None'.
+in place of application token, and no username or password.
+Search OpenPayentData by physician specialty and find top physcians (ranked by payment amount).
+Convert to pandas DataFrame.
+Experiment with Pandas Pivot Table.
+Pivot table return ranked physicians by total.
+Search OpenPayentData by physician specialty and find top physcians (ranked by payment amount).
+Recipient_city='New York City'.
+1.	Global Blood Therapeutics Inc: Voxelotor OR GBT440
+2.	Pfizer: Rivipansel OR GMI-1070
+3.	GlycoMimetics: Rivipansel OR GMI-1070
+4.	Novartis: crizanlizumab OR SEG101
 
